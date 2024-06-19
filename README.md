@@ -1,5 +1,9 @@
 # vcsrepo
 
+## This is a fork
+
+Forked from the official module to resolve an issue where a fact is using Ruby 2.5+ language features while our Solaris zones languish on Ruby 2.4 in Puppet 5. We do not need the fact and our zones are not long for this world so this is the sensible course of action.
+
 #### Table of contents
 
 1. [Overview](#overview)
